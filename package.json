@@ -1,0 +1,9 @@
+{
+  "name": "nitlixtstemplate",
+  "version": "1.0.0",
+  "description": "🎉 A public template for superpowering TS Apps at a rapid speed.",
+  "main": "./dist/exports.js",
+  "keywords": [],
+  "author": "NITLIX HOLDINGS S.T.",
+  "license": "MIT"
+}
